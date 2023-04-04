@@ -5,6 +5,7 @@ public class Main {
         int[] a = {2,2,3,0,4,2};
         int b = s.removeElement(a,2);
         System.out.println(b);
+        System.out.println(a);
     }
 
 
